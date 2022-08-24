@@ -1,3 +1,9 @@
+$(document).ready(readyNow); //runs readynow function
+
+function readyNow(){
+    console.log('JQ') //tests the JQ
+}
+
 const employees = [
   {
     name: 'Atticus',
